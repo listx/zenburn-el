@@ -255,7 +255,7 @@
      `(secondary-selection
        ((t (:foreground ,zenburn-fg :background "#506070"))))
 
-     '(trailing-whitespace ((t (:inherit font-lock-warning))))
+     '(trailing-whitespace ((t (:background "#ff0000"))))
      '(highlight ((t (:underline t))))
      '(paren ((t (:inherit zenburn-lowlight-1))))
      '(show-paren-mismatch ((t (:inherit font-lock-warning))))
